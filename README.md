@@ -10,7 +10,6 @@
 
 ## 🧠 About Me
 
-**EN 🇬🇧**  
 I am a Software Development student at *Institución Universitaria ITM*, building strong foundations in programming and secure system development.  
 
 I plan to continue my academic path towards Systems Engineering.  
