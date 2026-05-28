@@ -41,7 +41,7 @@ Aquí tienes las tecnologías con las que trabajo y desarrollo mis proyectos:
 
 ### 📬 ¡Hablemos!
 
-¿Tienes un proyecto en mente o te gustaría colaborar conmigo? ¡Escríbeme! Estou disponible para trabajos freelance en desarrollo web.
+¿Tienes un proyecto en mente o te gustaría colaborar conmigo? ¡Escríbeme! Estoy disponible para trabajos freelance en desarrollo web.
 
 <a href="mailto:vbarattonigaviria@gmail.com">
   <img src="https://img.shields.io/badge/Email-vbarattonigaviria@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
