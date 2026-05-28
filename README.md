@@ -1,63 +1,48 @@
-<h1 align="center">Valentina Barattoni Gaviria</h1>
-<h3 align="center">Software Development Student | Future Systems Engineer | Cybersecurity Path</h3>
+<!-- Encabezado Principal -->
+<div align="center">
+  <h1>¡Hola! Soy Valentina Barattoni 🌟</h1>
+  <p><strong>Estudiante de Tecnología en Desarrollo de Software @ ITM | Web Developer Freelance</strong></p>
+  <p>📍 Medellín, Colombia</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=1E90FF"/>
-  <img src="https://img.shields.io/badge/Specialization-Red%20Team%20%26%20Pentesting-000000?style=for-the-badge&logo=kalilinux&logoColor=1E90FF"/>
-</p>
+<hr />
 
----
+### 👤 Sobre Mí
 
-## 🧠 About Me
+¡Bienvenido/a a mi perfil de GitHub! Soy una apasionada por la tecnología y el desarrollo de software. Actualmente me encuentro cursando la **Tecnología en Desarrollo de Software en la Institución Universitaria ITM**. 
 
-I am a Software Development student at *Institución Universitaria ITM*, building strong foundations in programming and secure system development.  
-
-I plan to continue my academic path towards Systems Engineering.  
-
-My professional goal is to specialize in Cybersecurity, particularly in Red Team operations and Penetration Testing. I am motivated by ethical hacking, vulnerability assessment and strengthening digital infrastructures.
+Paralelamente, estoy construyendo mi camino en el mundo **freelance**, enfocándome en el **desarrollo y diseño de páginas web** modernas, funcionales y atractivas. ¡Me encanta transformar ideas en código!
 
 ---
 
-## 💻 Languages
+### 🛠️ Tecnologías y Herramientas
+
+Aquí tienes las tecnologías con las que trabajo y desarrollo mis proyectos:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+### 🗣️ Idiomas
 
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=1E90FF"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=1E90FF"/>
+  • 🇪🇸 <strong>Español:</strong> Nativo <br />
+  • 🇮🇹 <strong>Italiano:</strong> Intermedio <br />
+  • 🇬🇧 <strong>Inglés:</strong> Básico
 </p>
 
 ---
 
-## 🛠 Other Knowledge
+### 📬 ¡Hablemos!
 
-<p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=1E90FF"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=1E90FF"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=1E90FF"/>
-</p>
+¿Tienes un proyecto en mente o te gustaría colaborar conmigo? ¡Escríbeme! Estou disponible para trabajos freelance en desarrollo web.
 
----
-
-## 🌍 Languages
-
-- Spanish — Native  
-- Italian — Citizenship  
-- English — Improving daily  
-
----
-
-## 📂 Portfolio
-
-🚧 Currently building structured projects focused on:
-
-- Secure web development  
-- Vulnerability analysis practices  
-- Security-oriented Python scripting  
-- Database security implementations  
-
-(Coming soon…)
-
----
-
-## 🎯 Professional Goal | Objetivo Profesional
-
-To become a Cybersecurity specialist focused on Red Team and Penetration Testing, contributing to the protection and strengthening of digital systems at an international level.
+<a href="mailto:vbarattonigaviria@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vbarattonigaviria@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
